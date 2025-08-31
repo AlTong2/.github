@@ -64,6 +64,7 @@
 
 # 👨‍👩‍👦‍👦 팀원역할
 # 🎞 시연영상
+- https://www.youtube.com/watch?v=BSKkwhGCWrI
 # 🧾 참고문헌
 
 
